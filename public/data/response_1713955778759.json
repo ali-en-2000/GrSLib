@@ -1,0 +1,1278 @@
+[
+  {
+    "id": null,
+    "uuid": "9aea56e5-0fb3-4fe0-b0c4-21f2c1cee264",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "4782b8b2-3071-44ce-a97d-a18dcb5f83ca",
+    "entity": {
+      "uuid": "5d359e43-0111-4022-935a-4f196cebe941",
+      "title": "دپارتمان فنی تانک",
+      "image": null
+    },
+    "subtitle": "",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "0abbc9c6-269f-4726-a3ef-f4dfe05f8ef6",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "9aea56e5-0fb3-4fe0-b0c4-21f2c1cee264",
+    "entity": {
+      "uuid": "7e4682f3-b1c9-4880-9562-7b9c29c39fae",
+      "title": "دپارتمان بک‌اند",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "1ed25392-1463-484d-ad8a-acdf64dfe0ef",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "9aea56e5-0fb3-4fe0-b0c4-21f2c1cee264",
+    "entity": {
+      "uuid": "1bfc27fc-d6c8-402c-8b1b-afd21bfddd4e",
+      "title": "دپارتمان فرانت‌اند",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "c5de96f8-fe9c-41b8-92ab-61e269e3acd2",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "1ed25392-1463-484d-ad8a-acdf64dfe0ef",
+    "entity": {
+      "uuid": "89105726-b1d0-4383-955b-d3e42be169e5",
+      "title": "سیدرضا موسوی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس ارشد فرانت اند",
+    "description": "کارشناس ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "7c1900d6-4960-43d8-bfc8-7c35f7c3ef46",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "0abbc9c6-269f-4726-a3ef-f4dfe05f8ef6",
+    "entity": {
+      "uuid": "e9eeb3ae-c281-4052-b298-f626e94e03f3",
+      "title": "محمدحسین تفضلیان",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس بک‌اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "39012e79-84e7-4005-9803-397aa2a6aed2",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "921bd52e-2caa-4252-a3e1-c671e6bdb6f4",
+    "entity": {
+      "uuid": "f4be98be-b09d-4302-8b2a-3496ac3c2ab4",
+      "title": "دپارتمان بک‌اند تایمز",
+      "image": null
+    },
+    "subtitle": "",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "cfbb8946-eec1-4f3d-85c3-ffa1a6b9c310",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "39012e79-84e7-4005-9803-397aa2a6aed2",
+    "entity": {
+      "uuid": "423883de-8d63-4592-b9fc-4eaa12528cf7",
+      "title": "حسن گل پرور",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس بک‌اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "dffd3da3-a2d0-461a-af58-7f2d08f46c0a",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "39012e79-84e7-4005-9803-397aa2a6aed2",
+    "entity": {
+      "uuid": "6f5f55e8-9c55-4d0a-90bb-7cefbc19a45c",
+      "title": "محسن پدیدار",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس بک‌اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "5125edf3-c88e-4e57-bb82-102d3e6b82d4",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "921bd52e-2caa-4252-a3e1-c671e6bdb6f4",
+    "entity": {
+      "uuid": "3e6e5128-e076-4639-a537-0f39e35a4b99",
+      "title": "دپارتمان فرانت‌اند تایمز",
+      "image": null
+    },
+    "subtitle": "",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "e60877bc-3630-4b29-a78e-e575a39ea5b7",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "5125edf3-c88e-4e57-bb82-102d3e6b82d4",
+    "entity": {
+      "uuid": "fc9ab700-f63d-4937-9a41-c183cfa8c772",
+      "title": "سیددانیال میر هاشمی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس ارشد فرانت اند",
+    "description": "کارشناس ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "f7ff7c97-9331-416d-8d94-1db1b9b95391",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "5125edf3-c88e-4e57-bb82-102d3e6b82d4",
+    "entity": {
+      "uuid": "39b08804-7be2-4cdc-bb21-904576e5ad43",
+      "title": "سپهر بیگلری",
+      "groups": [
+        "70b2909f-cd1e-4ab8-9359-af308e7dbe14"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس فرانت اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "1fd371b5-fc98-4aef-8b73-4e2b6d119d54",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "f75d9e60-8cc3-4e5b-be22-b1a9ab774a69",
+    "entity": {
+      "uuid": "15d4e861-85d8-4c64-8135-870cc54289ba",
+      "title": "دپارتمان فنی تایمز",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "921bd52e-2caa-4252-a3e1-c671e6bdb6f4",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "1fd371b5-fc98-4aef-8b73-4e2b6d119d54",
+    "entity": {
+      "uuid": "9d63dbe8-e148-4bf9-8ab1-45e4dab70f3c",
+      "title": "امیرحسین خاک‌باززاده",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس ارشد بک‌اند",
+    "description": "کارشناس ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "cb047610-010e-4aaa-aa25-e5b93b37e72a",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "0abbc9c6-269f-4726-a3ef-f4dfe05f8ef6",
+    "entity": {
+      "uuid": "8fc9d97e-65cc-44db-9147-29397cebe1fe",
+      "title": "علی مهدوی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز برنامه نویس بک اند",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "f90468a5-ed9a-4659-b32d-1e5c5acb3711",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "0abbc9c6-269f-4726-a3ef-f4dfe05f8ef6",
+    "entity": {
+      "uuid": "972bc7c4-e274-47f3-b080-ffabe1c3ab12",
+      "title": "سیدعلی حسینی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس بک‌اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "e2d2d284-ac07-4ba6-bdfd-0215c2ef10b1",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "0abbc9c6-269f-4726-a3ef-f4dfe05f8ef6",
+    "entity": {
+      "uuid": "5bb89216-cd88-4fd7-81b5-3b6cef6a25fc",
+      "title": "یونس رایان فر",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس بک‌اند",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "099327d6-823a-44b7-90ec-8e14a4845d96",
+    "node_type": {
+      "id": 1003,
+      "title": "سازمان",
+      "parent": null
+    },
+    "parent_id": null,
+    "entity": {
+      "uuid": "0da68770-b7ad-4cb7-8886-dc6bdde64b43",
+      "title": "شرکت زد گروپ",
+      "image": null
+    },
+    "subtitle": "ZGROUP",
+    "description": "سازمان"
+  },
+  {
+    "id": null,
+    "uuid": "33962d31-c205-4467-9eed-29465fe8ba1e",
+    "node_type": {
+      "id": 1009,
+      "title": "لوکیشن",
+      "parent": null
+    },
+    "parent_id": "099327d6-823a-44b7-90ec-8e14a4845d96",
+    "entity": {
+      "uuid": "2a8d51fe-dee5-46d9-8c8d-c3442d2d41e9",
+      "title": "دفتر اصفهان کسرا",
+      "image": null
+    },
+    "subtitle": null,
+    "description": "لوکیشن"
+  },
+  {
+    "id": null,
+    "uuid": "2c1b9f5d-ebeb-47c9-badd-1da435e02dff",
+    "node_type": {
+      "id": 1009,
+      "title": "لوکیشن",
+      "parent": null
+    },
+    "parent_id": "099327d6-823a-44b7-90ec-8e14a4845d96",
+    "entity": {
+      "uuid": "adcffcbc-582d-4d6c-929c-2424cd050533",
+      "title": "ساختمان تانک",
+      "image": null
+    },
+    "subtitle": "02533050000",
+    "description": "لوکیشن"
+  },
+  {
+    "id": null,
+    "uuid": "131f4b86-521a-4d78-afa7-0b3a432124e7",
+    "node_type": {
+      "id": 1003,
+      "title": "سازمان",
+      "parent": null
+    },
+    "parent_id": "2c1b9f5d-ebeb-47c9-badd-1da435e02dff",
+    "entity": {
+      "uuid": "eae015a0-3a92-4480-a6fb-65e68258e08c",
+      "title": "شرکت توسعه نرم افزار هوشمند شریف",
+      "image": null
+    },
+    "subtitle": "Timez.ir",
+    "description": "سازمان"
+  },
+  {
+    "id": null,
+    "uuid": "e54aeeee-74fd-41f1-aafd-c434a4a9e30a",
+    "node_type": {
+      "id": 1003,
+      "title": "سازمان",
+      "parent": null
+    },
+    "parent_id": "2c1b9f5d-ebeb-47c9-badd-1da435e02dff",
+    "entity": {
+      "uuid": "7e1ea577-6651-4ffe-9cd9-ef71e9a9f481",
+      "title": "شرکت توسعه اطلاعات همراه شریف",
+      "image": null
+    },
+    "subtitle": "Tank.ir",
+    "description": "سازمان"
+  },
+  {
+    "id": null,
+    "uuid": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "e54aeeee-74fd-41f1-aafd-c434a4a9e30a",
+    "entity": {
+      "uuid": "87da28a6-14f2-4c24-a0cc-af68be894f77",
+      "title": "مهدی باختری",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیرعامل",
+    "description": "مدیرعامل"
+  },
+  {
+    "id": null,
+    "uuid": "f75d9e60-8cc3-4e5b-be22-b1a9ab774a69",
+    "node_type": {
+      "id": 1007,
+      "title": "نقش",
+      "parent": null
+    },
+    "parent_id": "131f4b86-521a-4d78-afa7-0b3a432124e7",
+    "entity": {
+      "uuid": "269d6f22-0fdc-45de-8187-6d7118316dee",
+      "title": "مدیرعامل",
+      "image": null
+    },
+    "subtitle": "مدیرعامل",
+    "description": "پوزیشن آزاد"
+  },
+  {
+    "id": null,
+    "uuid": "f7119cea-efef-402d-9abc-fd9563fda986",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "entity": {
+      "uuid": "db4f30dc-4926-4cfe-a6e4-1a103ebc51d5",
+      "title": "دپارتمان پروداکت",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "4bedb4fb-2cb2-4695-9847-b515ba569828",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "entity": {
+      "uuid": "1566ae48-a015-43d6-8ae2-db2685e16b9d",
+      "title": "دپارتمان مالی",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "33e7b0fc-205d-49bd-b360-32f82ee4609f",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "entity": {
+      "uuid": "2e74cfc4-32ea-4066-8dc1-084f96f731e3",
+      "title": "دپارتمان فنی",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "cba5e674-bf6e-4bad-9d2b-68c3446c4923",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "entity": {
+      "uuid": "e87d1361-600c-4c19-865e-a0b25649a0bf",
+      "title": "سیدیاسین پیام قره‌باغ",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر رشد",
+    "description": "مدیر ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "394f1992-08a8-47c0-b728-9311b0324980",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "2bc298a1-2f7b-4bee-84a7-01846077e363",
+    "entity": {
+      "uuid": "17d0a8e9-efc3-4d7b-9637-728059a96ee3",
+      "title": "دپارتمان عملیات",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "c7d02af1-a3e9-4f15-9ddd-4456c51b285c",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "f75d9e60-8cc3-4e5b-be22-b1a9ab774a69",
+    "entity": {
+      "uuid": "3a5e6364-ce00-42c1-aca2-efcd3b8093bb",
+      "title": "دپارتمان فروش تایمز",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "876dfc96-d7db-4a88-b38b-ec442f76d42d",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "f75d9e60-8cc3-4e5b-be22-b1a9ab774a69",
+    "entity": {
+      "uuid": "4105ac2b-9e9c-49c0-9ce4-22c8981645b4",
+      "title": "دپارتمان پروداکت تایمز",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "535d27b7-c119-4ac7-a8f1-b7edc96270e1",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "394f1992-08a8-47c0-b728-9311b0324980",
+    "entity": {
+      "uuid": "98216210-5613-4b41-8696-39eef4cdb3fa",
+      "title": "مهدی اشعری",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر عملیات",
+    "description": "مدیر ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "53014f8c-7309-4ab4-9cac-e5a89f24a570",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "535d27b7-c119-4ac7-a8f1-b7edc96270e1",
+    "entity": {
+      "uuid": "cf7940f9-d331-4f6c-add4-121155a59578",
+      "title": "دپارتمان پشتیبانی",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "55e919eb-deaf-4afb-936c-bcc78d791d98",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "53014f8c-7309-4ab4-9cac-e5a89f24a570",
+    "entity": {
+      "uuid": "14ce11a9-1ad5-46cb-bd00-bf6ff3422a3e",
+      "title": "سیدمحمد حسینی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس پشتیبانی",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "c9e5552c-f896-4c9e-9ca2-07ef87d15098",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "53014f8c-7309-4ab4-9cac-e5a89f24a570",
+    "entity": {
+      "uuid": "6e464d0b-3095-4afb-898f-b31f293e4614",
+      "title": "محدثه مردی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس پشتیبانی",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "535d27b7-c119-4ac7-a8f1-b7edc96270e1",
+    "entity": {
+      "uuid": "97c42e7d-cbfe-4e31-8a72-1935c8d36d61",
+      "title": "دپارتمان فروش",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "0ae67137-2e3f-485d-8160-2d08f1ec846d",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "d0f14e18-55bb-43db-b7fe-d39daabc9c54",
+      "title": "صدرا اشعری",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "6fc2135c-a631-4337-9472-5155b2fa492c",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "4cc14c65-5391-4c3f-b372-898b4df25496",
+      "title": "محمدعلی بابایی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "ad0ae4bd-1ac4-484b-bfd3-afeca7c9c12c",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "3f877b5d-2e3d-43e8-85b5-82598a4909c5",
+      "title": "یاسین تونئی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "ca72ab4c-6e8d-4ea6-a730-c7c6aed1ba25",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "493d06aa-acfa-439e-ac78-e52572f66ac1",
+      "title": "سیدحسین حسینی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "c94c0547-a649-4430-b4ad-26ca29723b96",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "bdf4fd31-362e-444a-9743-3b6fc3bf4058",
+      "title": "سوگند موسوی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "17f8ad57-3513-4a26-9da2-e05e061d6ced",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "030e847e-9cd9-48ce-bc0a-a6b230a95c3a",
+      "title": "مهدی مجیری",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارمند پیک",
+    "description": "کارمند"
+  },
+  {
+    "id": null,
+    "uuid": "54f6ad1a-d58a-49a1-9b93-7f2f4ef2691e",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "fc6d2a32-7c86-4f4b-9269-f3bcfcf5bb6b",
+      "title": "مصیب اکرامی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "متصدی فروشگاه",
+    "description": "کارمند"
+  },
+  {
+    "id": null,
+    "uuid": "b5d79679-a6d4-4b34-9341-8de22394af61",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "0737d89c-173f-40d1-9abb-aa15703605dc",
+      "title": "مهیار بیات",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارمند پیک",
+    "description": "کارمند"
+  },
+  {
+    "id": null,
+    "uuid": "2a725eb1-1982-453f-9ef9-e82eb23c5dc7",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "21277f4a-af29-4b5a-80a1-1dfeefc069b3",
+      "title": "محمدجواد حسنی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "b039cc9b-8c3a-4414-bd25-a28e2ca5da28",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "9b09386c-bbb9-4e37-894f-a363bec20727",
+    "entity": {
+      "uuid": "ef804f65-6278-48a8-ac74-bb7d58d0a6d8",
+      "title": "امیر مهدی آهنی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارشناس فروش",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "f419e661-219f-4416-ac4d-779116365d65",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "33e7b0fc-205d-49bd-b360-32f82ee4609f",
+    "entity": {
+      "uuid": "5f81a79a-c325-45e5-b3a1-a34d780eb556",
+      "title": "حسین تقی زاده",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "مشاور فنی",
+    "description": "مشاور"
+  },
+  {
+    "id": null,
+    "uuid": "ac71716d-8b9e-4625-9743-ea2a86e242d2",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "33e7b0fc-205d-49bd-b360-32f82ee4609f",
+    "entity": {
+      "uuid": "5cf9e892-b3e1-4323-9e9f-ff20afb9e3a0",
+      "title": "محمدعلی سلطانی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "مشاور فنی",
+    "description": "مشاور"
+  },
+  {
+    "id": null,
+    "uuid": "4782b8b2-3071-44ce-a97d-a18dcb5f83ca",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "33e7b0fc-205d-49bd-b360-32f82ee4609f",
+    "entity": {
+      "uuid": "d29a3250-f9a8-4d8a-80c7-d6cd367e9c98",
+      "title": "سیدحامد موسوی",
+      "groups": [
+        "bc3666a1-4eee-4398-b349-6da322028888",
+        "bc3666a1-4eee-4398-b349-6da322028888"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر فنی",
+    "description": "مدیر ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "7ce02092-f600-46b2-9706-a048477c49e2",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "33e7b0fc-205d-49bd-b360-32f82ee4609f",
+    "entity": {
+      "uuid": "f739bf23-87bd-4d40-846e-664775ba6bc1",
+      "title": "سیدمحمد جواد چاوشی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "مشاور فنی",
+    "description": "مشاور"
+  },
+  {
+    "id": null,
+    "uuid": "e98e7874-9d9c-42e0-b618-743b48347d92",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "f7119cea-efef-402d-9abc-fd9563fda986",
+    "entity": {
+      "uuid": "3786b5ff-8374-406a-8a62-f9abe9410432",
+      "title": "دپارتمان یوایکس",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "cf5162d1-fb80-4fbd-96ab-d4b7bdc0aa6a",
+    "node_type": {
+      "id": 1002,
+      "title": "دپارتمان",
+      "parent": null
+    },
+    "parent_id": "f7119cea-efef-402d-9abc-fd9563fda986",
+    "entity": {
+      "uuid": "cc1d5e40-1b7a-40a9-a7d6-f3926c96b3dc",
+      "title": "دپارتمان مارکتینگ",
+      "image": null
+    },
+    "subtitle": "شرکت زد گروپ",
+    "description": "دپارتمان"
+  },
+  {
+    "id": null,
+    "uuid": "3a1389c3-c078-415e-8eab-31ea870ec38f",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "f7119cea-efef-402d-9abc-fd9563fda986",
+    "entity": {
+      "uuid": "7a2473a8-6dba-4597-b0f3-97d8005b9205",
+      "title": "محمدمهدی نصیری",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیرمحصول",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "0bf21423-216d-412a-9b3c-5fb77acc4af0",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "f7119cea-efef-402d-9abc-fd9563fda986",
+    "entity": {
+      "uuid": "a41f134d-14f0-43af-bd18-ac2d664b682f",
+      "title": "امیررضا جهانگیری",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز محصول",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "8b654885-9c6d-42d8-b589-abd097722183",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "4bedb4fb-2cb2-4695-9847-b515ba569828",
+    "entity": {
+      "uuid": "9f9f233d-608f-4b3b-8f0a-77cb221d0f3a",
+      "title": "عبدالله جاویدمنش",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر مالی",
+    "description": "مدیر چپتر"
+  },
+  {
+    "id": null,
+    "uuid": "a4c29383-ab8b-4c8b-b135-577f2b0be329",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "4bedb4fb-2cb2-4695-9847-b515ba569828",
+    "entity": {
+      "uuid": "6e742d70-d7e3-465a-b545-6ba64519570c",
+      "title": "سیدمصطفی میر خلیلی",
+      "groups": [
+        "29fa8041-d2bb-46b1-ba13-dcd737e05069",
+        "29fa8041-d2bb-46b1-ba13-dcd737e05069"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر داخلی",
+    "description": "مدیر تیم"
+  },
+  {
+    "id": null,
+    "uuid": "235dcfea-025a-4134-aa61-fb63e273824b",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "e98e7874-9d9c-42e0-b618-743b48347d92",
+    "entity": {
+      "uuid": "07b63785-f0fa-4602-9f73-3c65b8d36ce1",
+      "title": "مریم خامه‌یار",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "طراح تجربه کاربری",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "b7a37ad6-62f7-4c62-90d6-7248457edbf1",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "876dfc96-d7db-4a88-b38b-ec442f76d42d",
+    "entity": {
+      "uuid": "ab87129c-ee13-43d0-94dd-869eed944b68",
+      "title": "ملیکا واعظ موسوی",
+      "groups": [
+        "29fa8041-d2bb-46b1-ba13-dcd737e05069",
+        "29fa8041-d2bb-46b1-ba13-dcd737e05069"
+      ],
+      "image": null
+    },
+    "subtitle": "مدیر پروداکت",
+    "description": "مدیر ارشد"
+  },
+  {
+    "id": null,
+    "uuid": "3e9d0c2e-e534-476a-8c7e-1ba510d2ea06",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "c5de96f8-fe9c-41b8-92ab-61e269e3acd2",
+    "entity": {
+      "uuid": "1110f2f5-f042-40a4-9aee-8cc743a50113",
+      "title": "محمدصالح ضیائی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز برنامه نویس فرانت اند",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "b889d0e6-dc98-45d2-b8d3-b533d31e1abf",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "c5de96f8-fe9c-41b8-92ab-61e269e3acd2",
+    "entity": {
+      "uuid": "ee9fc8b9-083c-46db-8b75-bbfb724bf65a",
+      "title": "مهدی نوده فراهانی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز برنامه نویس فرانت اند",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "a3b683cc-d3e4-4ac6-82a8-79298d09077d",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "c5de96f8-fe9c-41b8-92ab-61e269e3acd2",
+    "entity": {
+      "uuid": "d56bd3c5-668e-4c4f-bd40-88f39847f39d",
+      "title": "علی مطهری",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز برنامه نویس فرانت اند",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "be21509b-a02b-402d-b81f-e6e64b89be47",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "c5de96f8-fe9c-41b8-92ab-61e269e3acd2",
+    "entity": {
+      "uuid": "5781b56f-c723-4f2d-a4bd-903df0d9c7b1",
+      "title": "محمدجواد جعفرآبادی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارآموز برنامه نویس فرانت اند",
+    "description": "کارآموز"
+  },
+  {
+    "id": null,
+    "uuid": "a3f4b8c0-a35b-454b-b770-6813d75fa41d",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "a4c29383-ab8b-4c8b-b135-577f2b0be329",
+    "entity": {
+      "uuid": "f479d067-5c7b-48c5-8df0-12545a373188",
+      "title": "مریم سبز آبادی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارمند خدمات",
+    "description": "کارمند"
+  },
+  {
+    "id": null,
+    "uuid": "35f6a6fa-d2ac-4d92-a5ab-7a35b530effd",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "a4c29383-ab8b-4c8b-b135-577f2b0be329",
+    "entity": {
+      "uuid": "1af492a7-3bd8-41b2-96ab-576dbbb1ea9a",
+      "title": "محمد عبدی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "کارمند خدمات",
+    "description": "کارمند"
+  },
+  {
+    "id": null,
+    "uuid": "ef437059-1ece-40ff-a260-f1489a806497",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "8b654885-9c6d-42d8-b589-abd097722183",
+    "entity": {
+      "uuid": "1fe1b1a4-948f-41b7-a76c-2eba029fbca9",
+      "title": "خدیجه زند",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "حسابدار",
+    "description": "کارشناس"
+  },
+  {
+    "id": null,
+    "uuid": "35d8e4a8-43a6-403a-a84d-de0a202b77fa",
+    "node_type": {
+      "id": 1001,
+      "title": "کارمند",
+      "parent": null
+    },
+    "parent_id": "be21509b-a02b-402d-b81f-e6e64b89be47",
+    "entity": {
+      "uuid": "52b7b7f1-3e4e-4ebd-8615-5d5018a2c7a8",
+      "title": "فاطمه جماعتی",
+      "groups": [
+        "f6195ec9-0cda-40a7-9acd-924babf051f0",
+        "f6195ec9-0cda-40a7-9acd-924babf051f0"
+      ],
+      "image": null
+    },
+    "subtitle": "برنامه نویس فرانت اند",
+    "description": "کارشناس"
+  }
+]
