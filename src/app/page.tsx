@@ -1,6 +1,4 @@
-import Test from "@/components/test";
-import { Box } from "@/features/box";
-import Image from "next/image";
+import Box from "@/features";
 
 export default function Home() {
   return (
